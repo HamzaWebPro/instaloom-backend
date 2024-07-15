@@ -2,7 +2,7 @@ const nodemailer = require("nodemailer");
 const { google } = require("googleapis");
 
 const { OAuth2 } = google.auth;
-const oauth_link = "https://developer.google.com/oauthplayground";
+// const oauth_link = "https://developer.google.com/oauthplayground";
 
 const {
   EMAIL,
